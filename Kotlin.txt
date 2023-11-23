@@ -1,2 +1,0 @@
-nombre_de_usuario = William
-Correo_Electronico = Willdarddevil
